@@ -1,0 +1,4 @@
+- 👋 Hi there, I’m Zeynep Nihan
+- 👀 I’m interested in Python, Javascript.
+- 🌱 I’m currently learning Python
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/zeynep-nihan-karag%C3%B6z-241a53203/)
